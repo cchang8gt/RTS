@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general
+END
+ExplorationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/ExplorationManager.java
+END
+GeneralAITown.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/GeneralAITown.java
+END
+AttackManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/AttackManager.java
+END
+TrafficMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/TrafficMap.java
+END
+GeneralAIExploration.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/GeneralAIExploration.java
+END
+GeneralAIObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/GeneralAIObject.java
+END
+Traffic.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/Traffic.java
+END
+FarmManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/FarmManager.java
+END
+ProductionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/ProductionManager.java
+END
+TownManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/TownManager.java
+END
+GeneralAIEnemy.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/GeneralAIEnemy.java
+END
+GeneralAIUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/GeneralAIUnit.java
+END
+GeneralAI.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/GeneralAI.java
+END
+GeneralAIFarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/GeneralAIFarm.java
+END
+TaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/TaskManager.java
+END
+GeneralAIProduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/microRTS/src/ai/general/GeneralAIProduction.java
+END

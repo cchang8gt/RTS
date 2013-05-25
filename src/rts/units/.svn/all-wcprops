@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11/trunk/microRTS/src/rts/units
+END
+Unit.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/microRTS/src/rts/units/Unit.java
+END
+UnitDefinitionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/microRTS/src/rts/units/UnitDefinitionManager.java
+END
+UnitUpgrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/microRTS/src/rts/units/UnitUpgrade.java
+END
+UnitDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/microRTS/src/rts/units/UnitDefinition.java
+END
+UnitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/microRTS/src/rts/units/UnitAction.java
+END
+UnitStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/microRTS/src/rts/units/UnitStats.java
+END
